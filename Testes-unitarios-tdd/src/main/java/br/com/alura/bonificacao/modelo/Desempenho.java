@@ -1,4 +1,4 @@
-package br.com.alura.modelo;
+package br.com.alura.bonificacao.modelo;
 
 import java.math.BigDecimal;
 

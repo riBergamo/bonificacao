@@ -1,7 +1,7 @@
-package br.com.alura.service;
+package br.com.alura.bonificacao.service;
 
-import br.com.alura.modelo.Desempenho;
-import br.com.alura.modelo.Funcionario;
+import br.com.alura.bonificacao.modelo.Desempenho;
+import br.com.alura.bonificacao.modelo.Funcionario;
 
 import java.math.BigDecimal;
 

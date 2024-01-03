@@ -1,8 +1,7 @@
-package br.com.alura.tdd.service;
+package br.com.alura.bonificacao.service;
 
-import br.com.alura.service.ReajusteService;
-import br.com.alura.modelo.Desempenho;
-import br.com.alura.modelo.Funcionario;
+import br.com.alura.bonificacao.modelo.Desempenho;
+import br.com.alura.bonificacao.modelo.Funcionario;
 import org.junit.jupiter.api.*;
 
 import java.math.BigDecimal;

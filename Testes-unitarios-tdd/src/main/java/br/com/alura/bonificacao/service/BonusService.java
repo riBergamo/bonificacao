@@ -1,9 +1,9 @@
-package br.com.alura.service;
+package br.com.alura.bonificacao.service;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-import br.com.alura.modelo.Funcionario;
+import br.com.alura.bonificacao.modelo.Funcionario;
 
 public class BonusService {
 
